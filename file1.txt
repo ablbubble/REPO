@@ -1,1 +1,2 @@
 "HELLOWORDL" 
+100 balov smelo
